@@ -1,5 +1,5 @@
 # testeMaxMilhas
-Teste para front-end na MaxMilhas
+Projeto de upload de vídeos
 <br />
 <h2>Task para rodar o projeto:</h2>
 <pre><code>gulp serve</code></pre>
