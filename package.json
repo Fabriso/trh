@@ -1,7 +1,9 @@
 {
   "name": "testemax",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "bower": "^1.8.2"
+  },
   "scripts": {
     "test": "gulp test"
   },
