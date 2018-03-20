@@ -334,7 +334,7 @@ body.mini-navbar .navbar-default .nav > li > .nav-second-level li a {
 }
 
 .navbar-fixed-top, .navbar-static-top {
-  background: $gray;
+  background: #fff;
 }
 
 .fixed-nav #wrapper {
@@ -439,7 +439,6 @@ body.canvas-menu .navbar-static-side {
   width: $sidebar-width;
   z-index: 2001;
   height: 100%;
-  overflow: hidden;
 }
 
 body.fixed-sidebar.mini-navbar .navbar-static-side {
